@@ -6,7 +6,7 @@
 
 ## 下载与准备
 
-从 [GitHub Releases 下载软件包与校验值](https://github.com/xijin8/ChikaFixer/releases/tag/v1.0.1)，完整解压后使用。请保留同目录的 `XijinChikaLauncher.exe` 和 `_internal`，不要单独拿走一个 EXE。
+从 [GitHub Releases 下载软件包与校验值](https://github.com/xijin8/ChikaFixer/releases/tag/v1.0.1)，下载附件 `Xijin_CHIKA_Fix_Launcher_v1.0.1.zip`，完整解压后使用。请保留同目录的 `XijinChikaLauncher.exe` 和 `_internal`，不要单独拿走一个 EXE。
 
 需要准备的只有三个：
 
