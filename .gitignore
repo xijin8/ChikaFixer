@@ -1,0 +1,6 @@
+# 只公开软件与使用说明；源码、构建产物、日志、本机 DUID 一律不上传
+*
+!.gitignore
+!README.md
+!使用说明.txt
+!汐瑾chika修复启动器_v1.0.zip
